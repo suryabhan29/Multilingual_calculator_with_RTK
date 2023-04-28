@@ -50,7 +50,7 @@ i18n
   });
 
 
-{ console.log('i18next---->',i18next.t('calculator'))}
+    { console.log(i18next.t('calculator'))}
 
 
 
